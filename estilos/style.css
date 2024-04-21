@@ -4,25 +4,27 @@
 }
 body{
     background-color: rgb(191, 144, 235);
+    
 }
 main{
-    background-color: aliceblue;
+    background-color: rgb(228, 207, 218);
     width: 500px;
-    margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.486);
+    margin: auto;
+    
 }
 img.lado {
     float:right ;
 }
-article {background-color: aliceblue;
+      
+iframe{
     width: 500px;
-    margin: auto;
+   
+}
+    article{
+    background-color: rgb(219, 199, 217);
+    width: 500px;
     padding: 10px;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.486);
-
-}
-iframe {
-    width: 500px
-
-}
+    margin: auto;
+    }
+    
