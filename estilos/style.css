@@ -17,14 +17,21 @@ img.lado {
     float:right ;
 }
       
-iframe{
+iframe {
     width: 500px;
-   
 }
     article{
-    background-color: rgb(219, 199, 217);
+    background-color: rgb(218, 200, 216);
     width: 500px;
-    padding: 10px;
     margin: auto;
+    padding: 10px;
+    }
+    h1 {
+        font-size: 2em;
+        color: rgb(57, 4, 107);
+    }
+    h2 {
+        font-size: 1,5em;
+        color: rgb(57, 3, 107);
     }
     
